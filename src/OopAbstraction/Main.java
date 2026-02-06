@@ -33,7 +33,7 @@ public class Main {
         Vehicle car = new Car();       //Polimorphism
         Vehicle plane = new Plane();
 
-      //  Vehicle vehicle = new Vehicle();
+//        Vehicle vehicle = new Vehicle();
 
         car.move();
         car.stop();
